@@ -1,1 +1,2 @@
-# win_activate
+# 下载地址
+https://kms.cangshui.net/
